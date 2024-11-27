@@ -50,6 +50,12 @@
   ],
   "navigation": [
     {
+      "group": "PLN",
+      "pages": [
+        "pln/introducao"
+      ]
+    },
+    {
       "group": "Get Started",
       "pages": [
         "introduction",
@@ -80,12 +86,6 @@
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
-      ]
-    },
-    {
-      "group": "PLN",
-      "pages": [
-        "pln/introducao"
       ]
     }
   ],
